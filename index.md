@@ -4,7 +4,7 @@ This is my home page! My name is An Nguyen and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_usernameAnnguyen026.
+My GitHub page is http://github.com/Annguyen026.
 
 ### CPSC 120
 
